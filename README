@@ -1,0 +1,7 @@
+***XMLDataTest***
+A database table grabber.
+Created 5/14/2012 by Frank 'Dragonsdoom' V
+Written in C# with MySQL Connector Net 6.3.8
+
+Takes a command line argument as a tablename and dumps data about that table to XML.
+You will need to change the database name if you decide to use this code for your own project.
